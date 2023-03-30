@@ -1,0 +1,2 @@
+[10-Nov-2022 14:30:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.33. in /home2/repaigkk/bincom.repairits.pw/vendor/composer/platform_check.php on line 24
+[19-Mar-2023 19:50:07 UTC] PHP Fatal error:  Cannot redeclare abort() (previously declared in /home2/repaigkk/bincom.repairits.pw/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php:37) in /tmp/phpXZWfPP on line 2
